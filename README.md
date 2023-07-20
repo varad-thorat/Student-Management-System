@@ -1,3 +1,26 @@
+# Student Management System
+Student Management System with CRUD operations, Firebase for authentication, MongoDB for data storage, React.js frontend, Express backend, and hosted on Firebase.
+You can have a click glance of the project here - https://fire-sms-app.web.app
+
+# Features
+CRUD Operations: Manage student records with create, read, update, and delete functionalities.\
+Firebase Authentication: Secure user signup and login.\
+MongoDB Database: Efficiently store and manage student data.\
+React.js Frontend: User-friendly and responsive interface.\
+Express Backend: Smooth communication between frontend and database.\
+Firebase Hosting: Easily accessible website deployment.
+
+# Setup
+Clone the repository: 
+### git clone https://github.com/your-username/student-management.git 
+Install dependencies for frontend and backend: 
+### `npm install` 
+Configure Firebase credentials in firebaseConfig.js. \
+Set up MongoDB connection in 
+### `mongoConfig.js.`
+Start the development server: 
+### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
