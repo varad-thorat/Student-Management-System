@@ -12,7 +12,7 @@ Firebase Hosting: Easily accessible website deployment.
 
 # Setup
 Clone the repository: 
-### git clone https://github.com/your-username/student-management.git 
+### git clone [https://github.com/your-username/student-management.git](https://github.com/varad-thorat/Student-Management-System.git) 
 Install dependencies for frontend and backend: 
 ### `npm install` 
 Configure Firebase credentials in firebaseConfig.js. \
